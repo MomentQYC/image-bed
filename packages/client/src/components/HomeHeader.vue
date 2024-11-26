@@ -12,12 +12,6 @@ import { ElAlert, ElLink } from 'element-plus';
         </div>
         <span class="right">
             <ConfigPanel />
-            <ElLink
-                type="success"
-                href="https://demos.sugarat.top/pages/png-compress/"
-                target="_blank" noreferrer noopener>
-                图片在线压缩
-            </ElLink>
             <a href="https://github.com/ATQQ/image-bed-qiniu/tree/master/packages/client#-%E4%B8%83%E7%89%9B%E4%BA%91oss%E5%9B%BE%E5%BA%8A-"
                 target="_blank" noreferrer noopener>
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 20 20">
